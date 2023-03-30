@@ -1,0 +1,32 @@
+
+
+body{
+    display:inline;
+}
+
+h1{
+    border: red solid 1px;
+    width: 50%;
+}
+
+.firstLink{
+    border: red solid 1px;
+}
+
+#container{
+    display: flex;
+    background-color: brown;
+    height:300px;
+}
+
+#container section{
+    border: rgb(78, 38, 38) solid 2px;
+    width: 10%;
+    background-color: black;
+    height:50px;
+
+}
+
+.section3{
+    align-self: flex-end;
+}

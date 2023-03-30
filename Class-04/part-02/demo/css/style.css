@@ -1,0 +1,131 @@
+/* Variables */
+
+:root{
+    --background: #55423d;
+    --headline: #fffffe;
+    --paragraph: #fff3ec;
+    --button-bg: #ffc0ad;
+    --button-text: #271c19;
+}
+
+body{
+    background-color: var(--background);
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    width:100px
+}
+
+nav ul{
+    display: flex;
+    gap:50px;
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link{
+    color: var(--paragraph)
+}
+
+a:visited{
+    color: var(--paragraph)
+}
+
+.heroSection{
+    display: flex;
+    justify-content: space-around;
+    background-color: var(--button-text);
+    border-radius: 2rem;
+    align-items: center;
+    /* margin-bottom: 5%; */
+    height: 400px;
+}
+
+.heroSection img{
+    width:40%;
+    border-radius: 2%;
+}
+
+.heroSection article h1{
+    color: var(--headline);
+    font-size: 2rem;
+}
+
+.heroSection article p{
+    color: var(--paragraph);
+    font-size: 1rem;
+}
+
+.heroSection article button{
+    background-color: var(--button-bg);
+    color:var(--button-text);
+    font-size: 1rem;
+    height:2rem;
+    width: 8rem;
+
+}
+
+.heroSection article button:hover{
+    background-color: #55423d;
+    cursor:pointer ;
+}
+
+.secondRow{
+    display: flex;
+    justify-content: space-around;
+}
+
+.secondRow article{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #1d1411a1;
+    width: 30%;
+    border-radius: 4%;
+    /* padding-left: 1% ; */
+}
+
+.secondRow article h2{
+    color: var(--headline)
+}
+
+.secondRow article img{
+    width:80%;
+    height:200px;
+    /* margin-left: 8%; */
+}
+
+.secondRow article p{
+    color: var(--paragraph);
+    padding: 5%;
+}
+
+.secondRow article ul{
+    list-style-type: none;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    /* align-items: center; */
+    gap:30px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+hr{
+    color:var(--headline)
+}
