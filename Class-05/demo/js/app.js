@@ -31,7 +31,7 @@ console.log(typeof str)
 var fullName = `Hello my name is ${str} ${str2}`
 console.log(fullName)
 
-
+ 
 var bool = false;
 console.log(typeof bool)
 
