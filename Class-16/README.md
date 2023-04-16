@@ -1,24 +1,18 @@
-# Class 16 : React: Introduction
+# Class 16 : CRUD
 
-## Outcomes
+## Outcomes:
+Students will be able to:
+- Create update and delete requests
+- Update (UPDATE) a record in the database
+- Delete (Delete) a record from the database
+- Read (SELECT) a record from the database
 
-Students will learn :
 
-- understand what is React, JSX.
-- Create react app.
-- Create and render components.
-- Dealing with props and passing it(how to destruct the object).
-- Dealing with JSON data.and map
+## Resources:
+* [HTTP response status codes](https://thecontentworks.uk/http-status-codes-cheat-sheet/)
+* [Status Code to Use for Every CRUD App](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/)
+* [req.params, req.query and req.body](https://dev.to/gathoni/express-req-params-req-query-and-req-body-4lpc)
 
-## Resources
-* [React JS](https://www.geeksforgeeks.org/react-js-introduction-working/)
-* [Components and Props in React](https://reactjs.org/docs/components-and-props.html)
-* [Passing Functions to Components](https://reactjs.org/docs/faq-functions.html)
-* [DOM vs Virtual DOM](https://reactkungfu.com/2015/10/the-difference-between-virtual-dom-and-dom/)
-
-### Keywords to Search for: 
-* JSX
-* Function and Class Components in React
-* Rendering a Component
-* Extracting Components
-* Virtual DOM
+### Keywords to search for:
+* HTTP Status Codes
+* Update and Delete in CRUD

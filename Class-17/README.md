@@ -1,24 +1,16 @@
-# Class 17 : Routing, Conditional Rendering, Events and, State
+# Class 17 : Backend Deployment
 
-## Outcomes
+## Outcomes:
+Student will be able to:
+- Deal with Heroku and deploy database and server
+- working with Heroku CLI
 
-Students will learn :
+ 
+## Resources:
+* [What is Heroku](https://mentormate.com/blog/what-is-heroku-used-for-cloud-development/)
+* [Heroku CLI Commands](https://devcenter.heroku.com/articles/heroku-cli-commands)
+* [Mistakes to Avoid As a Backend Developer](https://dev.to/techmaniacc/mistakes-to-avoid-as-a-backend-developer-122j)
 
-- Routing
-- Conditional rendering
-- Passing functions as props
-- Handling events
-- Introduce state and Life-cycle (useState)
-
-
-## Resources
-* [Routing](https://www.tutorialspoint.com/reactjs/reactjs_router.htm)
-* [Passing functions as props in react](https://reactjs.org/docs/faq-functions.html)
-* [Events](https://blog.logrocket.com/a-guide-to-react-onclick-event-handlers-d411943b14dd/)
-* [Component lifecycle](https://learn.co/lessons/react-component-lifecycle)
-
-### Keywords to search for (Main Headlines):
-* React Routing.
-* Props vs state.
-* React Events.
-* React Lifecycle.
+### Keywords to search for:
+* Heroku
+* Heroku CLI

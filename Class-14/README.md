@@ -1,18 +1,22 @@
-# Class 14 : CRUD
+# Class14 : 3rd Party API
 
 ## Outcomes:
 Students will be able to:
-- Create update and delete requests
-- Update (UPDATE) a record in the database
-- Delete (Delete) a record from the database
-- Read (SELECT) a record from the database
-
+- Describe and Define: Async, Promises, APIs, ReST, Express, Application Middleware, Route Middleware, libraries, wireframes, env.
+- Execute:
+ - Node Express Server
+ - Use axios to fetch remote data asynchronously
+ - Get 3rd Party data from an API
+ - Integrate data with a separate web application
 
 ## Resources:
-* [HTTP response status codes](https://thecontentworks.uk/http-status-codes-cheat-sheet/)
-* [Status Code to Use for Every CRUD App](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/)
-* [req.params, req.query and req.body](https://dev.to/gathoni/express-req-params-req-query-and-req-body-4lpc)
+* [Async vs sync](https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/)
+* [What is a Promise](https://www.freecodecamp.org/news/javascript-promises-explained/)
+* [An Introduction to REST APIs](https://www.easeout.co/blog/2021-11-09-an-introduction-to-rest-apis/)
+* [Axios Doc](https://www.npmjs.com/package/axios)
 
-### Keywords to search for:
-* HTTP Status Codes
-* Update and Delete in CRUD
+### Keywords to Search for:
+* Async functions in Javascript
+* Promises
+* RESTful API
+* Axios
