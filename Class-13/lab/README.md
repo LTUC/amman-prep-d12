@@ -1,4 +1,4 @@
-# Lab 11:
+# Lab 13:
 
 ## Overview :
 - Today will be the beginning of a multi-lab project, where you will build a movie app that can check the latest movies based on categories. 
@@ -13,7 +13,7 @@ For today's lab you are setting up the server of the movie app and create the ba
 - Set up your server repository: 
   - Create a repository called `Movies-Library` on GitHub
   - Initialize your project by running the following command "npm init -y"
-  - Create a new branch called `Lab11`
+  - Create a new branch called `Lab13`
   - Create basic file structure (server.js, .gitignore, .eslintrc.json )
 
 - Install the required packages for this lab: `npm install express cors`
@@ -85,9 +85,9 @@ Movies-Library
 
 
 ## Submission Instructions:
-- When your work is complete and ready for submission, push to the `Lab11` branch.
+- When your work is complete and ready for submission, push to the `Lab13` branch.
 - Create a pull request.
 - Submit the pull request link.
-- Merge `Lab11` with the main branch.
+- Merge `Lab13` with the main branch.
 - What observations or questions do you have about what you’ve learned so far?
 - How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?

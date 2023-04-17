@@ -1,11 +1,11 @@
-# Lab 13:
+# Lab 15:
 
 ## Overview:
 In today's lab, you will set up your database and read and save data to it.
 
 ## Requirements:
 * Draw the web request response cycle for the task at hand
-* Create a new branch called `Lab13`
+* Create a new branch called `Lab135`
 * Install the required packages for this lab: `npm install pg`
 * Setup your database environment.
 * Create request to the database for the following endpoints:
@@ -21,9 +21,9 @@ In today's lab, you will set up your database and read and save data to it.
 
 
 ## Submission Instructions:
-- When your work is complete and ready for submission, push to the `Lab13` branch.
+- When your work is complete and ready for submission, push to the `Lab15` branch.
 - Create a pull request.
 - Submit the pull request link.
-- Merge `Lab13` with the main branch.
+- Merge `Lab15` with the main branch.
 - What observations or questions do you have about what you’ve learned so far?
 - How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?

@@ -1,14 +1,10 @@
-# Challenge 17
+# Challenge 12
 
 ### For today Problem Solving exercise please follow the instructions:
 
 <p>&nbsp</p>
 
-#### note that you will continue working on the same repository from the previous exercise  `Prep-Challenges`
-
-<p>&nbsp</p>
-
-- Create a new branch `git checkout -b exercise17`
+- Create a new branch `git checkout -b exercise12`
 
 
 - To retrieve the code challenge run this command: `npm run pull-challenge <challenge-number>`
@@ -16,7 +12,7 @@
    - Run:
 
    	 ```bash
-  	 npm run pull-challenge 17
+  	 npm run pull-challenge 12
    	 ```
 
 
@@ -26,4 +22,4 @@
 
   - to run all tests: `npm test`
   - to run specific tests: `npm test <test-number>`
-    - For example: `npm test 17`
+    - For example: `npm test 12`

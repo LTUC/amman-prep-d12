@@ -1,6 +1,6 @@
 # Travel Destination
 
-## **Lab 16**
+## **Lab 11**
 
 ### **Overview**
 
@@ -13,7 +13,7 @@ You are building a Travel Destination application where you can see a list of th
 ### **Requirements**
 **Set up your Github Repository:**
    - Create new repo called `Travel-Destination`.
-   - Checkout a new branch called `class-16` for today's task.
+   - Checkout a new branch called `class-11` for today's task.
    - Open it in VS code.
 
 - You structure tourapp/src to be as below - it just related to src folder the rest folder should not be Edited .
@@ -123,9 +123,9 @@ You are building a Travel Destination application where you can see a list of th
 
 
 ## Submission Instructions:
-- When your work is complete and ready for submission, push to the `class-16` branch.
+- When your work is complete and ready for submission, push to the `class-11` branch.
 - Create a pull request.
 - Submit the pull request link.
-- Merge `class-16` with the main branch.
+- Merge `class-11` with the main branch.
 - What observations or questions do you have about what you’ve learned so far?
 - How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?

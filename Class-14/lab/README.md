@@ -1,11 +1,11 @@
-# Lab 12:
+# Lab 14:
 
 ## Problem domain:
 For today's lab, you will continue working on the Movies-Library repository. You will send get requests to a 3rd party API and display data.
 
 ## Requirements:
 * Draw the web request-response cycle for the task at hand
-* Create a new branch called `Lab12`
+* Create a new branch called `Lab14`
 * Install the required packages for this lab: `npm install axios dotenv`
 * Go to this website [THE MOVIE DB](https://developers.themoviedb.org/3):
   - Create a new account if you don’t have one
@@ -54,6 +54,6 @@ Movies-Library
 - When your work is complete and ready for submission, push it to the `Lab12` branch.
 - Create a pull request.
 - Submit the pull request link.
-- Merge `Lab12` with the main branch.
+- Merge `Lab14` with the main branch.
 - What observations or questions do you have about what you’ve learned so far?
 - How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?

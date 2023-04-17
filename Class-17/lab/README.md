@@ -1,4 +1,4 @@
-# Lab 15:
+# Lab 17:
 
 ## Problem domain:
 * Today you will finish working in the movie app, by the end of this lab you should have a working deployed link of your server that you can send to your friends to try it out.

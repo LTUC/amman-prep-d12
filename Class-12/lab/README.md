@@ -1,16 +1,16 @@
 # Travel Destination
 
-## **Lab 17**
+## **Lab 12**
 
 ### **Overview**
 
-You will continue building on what you achieved in the **Lab 16**.
+You will continue building on what you achieved in the **Lab 11**.
 
 ### **Requirements**
 
 
 **Set up your Github Repository:**
-   - Checkout a new branch called `class-17` for today's task.
+   - Checkout a new branch called `class-12` for today's task.
    - Open it in VS code.
 
 - You have to organize your file structure to be as below - it just related to src folder the rest folder should not be Edited .
@@ -90,9 +90,9 @@ You will continue building on what you achieved in the **Lab 16**.
 
                                       
 ## Submission Instructions:
-- When your work is complete and ready for submission, push to the `class-17` branch.
+- When your work is complete and ready for submission, push to the `class-12` branch.
 - Create a pull request.
 - Submit the pull request link.
-- Merge `class-17` with the main branch.
+- Merge `class-12` with the main branch.
 - What observations or questions do you have about what you’ve learned so far?
 - How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?
