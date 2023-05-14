@@ -128,12 +128,13 @@ function addRecipeHandler(req,res){
     VALUES ($1, $2, $3);`
     const values = [recipe.title , recipe.summary, recipe.mins]; 
     client.query(sql,values)
-    .then(data=>{
+    .then(()=>{
         res.send("The data has been added successfully");
     })
     .catch((error)=>{
         errorHandler(error,req,res)
     })
+
 }
 
 function Recipe(id, title, time, summary) {
